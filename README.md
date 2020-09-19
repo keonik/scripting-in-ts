@@ -1,6 +1,6 @@
 # Building a Typescript script 101
 
-Article: [https://johnfay.dev/blog/setting-up-scripts-with-typescript/]()
+Article: [Setting up scripts with Typescript](https://johnfay.dev/blog/setting-up-scripts-with-typescript/)
 
 ## What is covered
 
